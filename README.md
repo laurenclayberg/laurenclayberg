@@ -1,4 +1,10 @@
-### Hi there 👋
+Pronouns: she/her/hers
+
+Reach me at: laurenclayberg@alum.mit.edu
+
+Alumna of Massachusetts Institute of Technology
+
+I recently completed my M.Eng. in Electrical Engineering and Computer Science, concentrating in Machine Learning, (2020) and my S.B. In Computer Science and Engineering and a minor in Mathematics (2019). I am very passionate about solving real problems and doing work that I know helps the community. My favorite projects are those where I can combine creativity with my love for math and computer science. I would consider myself to be an algorithm enthusiast, regex connoisseur, theory of computation nerd, and a musician on the side. Teamwork has been the driving force behind some of my favorite projects. 
 
 <!--
 **laurenclayberg/laurenclayberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
